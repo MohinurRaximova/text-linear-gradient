@@ -1,0 +1,13 @@
+div {
+    height: 500px;
+    width: 500px;
+    background-image: linear-gradient(to right,blue, deeppink),linear-gradient(lime,lime);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight 900p ;
+    background-clip: text,border-box;
+    color: transparent;
+    border: 5px solid aqua;
+}
